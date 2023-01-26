@@ -10,9 +10,7 @@ Trago neste projeto uma página simples de login. <br/>
 
 </p>
 
-<p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/112019351/214958822-982a2b20-46fb-4fe0-bb61-b661a4fd6da3.png">
-</p>
+
 
 <br>
 
