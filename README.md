@@ -11,7 +11,7 @@ Trago neste projeto uma página simples de login. <br/>
 </p>
 
 <p align="center">
-  <img alt="">
+  <img alt="https://user-images.githubusercontent.com/112019351/214958480-0ec860cf-14d1-4bec-b76c-e610d06d601e.png">
 </p>
 
 ## 🚀 Tecnologias
