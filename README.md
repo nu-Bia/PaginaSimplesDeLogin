@@ -22,8 +22,9 @@ Trago neste projeto uma página simples de login. <br/>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML 
+- HTML5 
 - Git e Github
+- Visual Studio Code
 
 ## 💻 Projeto
 
