@@ -5,9 +5,9 @@ Trago neste projeto uma página simples de login. <br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#-inspração">inspração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-TECNOLOGIAS UTILIZADAS">TECNOLOGIAS UTILIZADAS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-SOBRE O PROJETO">SOBRE O PROJETO</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-INSPIRAÇÃO E CRÉDITOS ">INSPIRAÇÃO E CRÉDITOS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -19,7 +19,7 @@ Trago neste projeto uma página simples de login. <br/>
   <img alt="login" src="https://user-images.githubusercontent.com/112019351/214960536-65439132-ac09-4293-b15d-1c5b7319d312.png">
 
 
-## 🚀tecnologia
+## 🚀TECNOLOGIAS UTILIZADAS
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Visual Studio Code
 
-## 💻projeto
+## 💻SOBRE O PROJETO
   
-## ✨inspração
+## ✨INSPIRAÇÃO E CRÉDITOS
 
