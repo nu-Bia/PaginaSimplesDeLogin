@@ -1,13 +1,13 @@
-<h1 align="center"> Página de Login </h1>
+<h1 align="center"> PÁGINA DE LOGIN </h1>
 
 <p align="center">
 Trago neste projeto uma página simples de login. <br/>
 </p>
 
 <p align="center">
-  <a href="#-TECNOLOGIA">TECNOLOGIA</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-PROJETO">PROJETO</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="#-INSPIRAÇÃO">INSPIRAÇÃO</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#-inspração">inspração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -19,7 +19,7 @@ Trago neste projeto uma página simples de login. <br/>
   <img alt="login" src="https://user-images.githubusercontent.com/112019351/214960536-65439132-ac09-4293-b15d-1c5b7319d312.png">
 
 
-## 🚀TECNOLOGIAS
+## 🚀tecnologia
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -27,8 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Visual Studio Code
 
-## 💻PROJETO
+## 💻projeto
   
-## ✨ INSPIRAÇÃO
-  
+## ✨inspração
 
