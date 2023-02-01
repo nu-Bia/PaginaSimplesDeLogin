@@ -28,6 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Visual Studio Code
 
 ## 💻PROJETO
-##  bar_chart INSPIRAÇÃO
+  
+## ✨ INSPIRAÇÃO
   
 
