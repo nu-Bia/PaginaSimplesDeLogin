@@ -23,8 +23,7 @@ E desenvolvido por :
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-|
-Azul| ![#0077ff)](https://via.placeholder.com/10/0077ff?text=+) #0077ff |
+|Azul| ![#0077ff)](https://via.placeholder.com/10/0077ff?text=+) #0077ff |
 | Rosa       | ![cf009b](https://via.placeholder.com/10/cf009b?text=+) #cf009b |
 | Branco      | ![#fff](https://via.placeholder.com/10/fff?text=+) #fff |
 | Preto      | ![000](https://via.placeholder.com/10/000?text=+) #000|
