@@ -30,7 +30,7 @@ As cores utilizadas nesse projeto foram
 | Preto      | ![000](https://via.placeholder.com/10/000?text=+) #000|
 
 
-##  Tecnologias Utilizadas
+##  Tecnologias Utilizadas :
 - HTML5
 - CSS
 - VISUAL STUDIO CODE
