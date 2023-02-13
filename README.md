@@ -20,6 +20,7 @@ E desenvolvido por :
 - [@nu-Bia](https://github.com/nu-Bia)
 
 ## Documentação de cores
+As cores utilizadas nesse projeto foram
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
